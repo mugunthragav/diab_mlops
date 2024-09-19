@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Admin/PycharmProjects/mlflow/mlflow_diab/mlruns/187951575998214209/19730a82926e41b58b19a6599bd53dfd/artifacts
+end_time: 1726742711671
+entry_point_name: ''
+experiment_id: '187951575998214209'
+lifecycle_stage: active
+run_id: 19730a82926e41b58b19a6599bd53dfd
+run_name: mercurial-lynx-185
+run_uuid: 19730a82926e41b58b19a6599bd53dfd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726742689624
+status: 3
+tags: []
+user_id: root

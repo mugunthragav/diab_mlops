@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1726742710643
+current_stage: Production
+description: null
+last_updated_timestamp: 1726742711076
+name: LinearRegressionDiabetes
+run_id: 19730a82926e41b58b19a6599bd53dfd
+run_link: null
+source: runs:/19730a82926e41b58b19a6599bd53dfd/model
+status: READY
+status_message: null
+storage_location: runs:/19730a82926e41b58b19a6599bd53dfd/model
+user_id: null
+version: 3
