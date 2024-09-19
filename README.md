@@ -17,6 +17,7 @@ This repository demonstrates a complete MLOps pipeline for a simple regression m
 ·         `**requirements.txt**`: Lists all the Python libraries required for the project, ensuring that the environment has the necessary packages for running the regression model and MLflow. This file is used during the Docker image build process to install dependencies.
 
 ·         `**main.py**`: Implements the regression model and includes code for training, evaluation, and MLflow integration. This script is the main application logic and interacts with MLflow for experiment tracking and model logging.
+          **.git/workflows/name.yml: Defines the GitHub Actions workflow for CI/CD. This file automates the process of building, pushing, and running Docker containers, and includes steps for logging in to Docker Hub, building images, and deploying services. It ensures that changes to the repository trigger the workflow, maintaining up-to-date deployments.
 
 **How It Works**
 
